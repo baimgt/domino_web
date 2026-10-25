@@ -7,10 +7,12 @@
  */
 
 export const APP_CONFIG = {
-  // Nama Game & Branding
+  // Nama Game & Branding & Domain
   appName: 'Kings Billiards & Domino',
   subtitle: '& DOMINO CASINO VIP',
   developer: 'Kings Gaming Studio',
+  domain: 'kingsbilliards.tech',
+  siteUrl: 'https://kingsbilliards.tech',
 
   // Versi & Spesifikasi APK
   version: 'v2.79',
