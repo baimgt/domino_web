@@ -19,7 +19,7 @@ export default function Footer({ onOpenDownload }: FooterProps) {
         {/* Giant Bottom Download Banner */}
         <div className="bottom-cta-banner glass-panel">
           <div className="cta-banner-content">
-            <span className="cta-pill">🎉 BONUS AWAL DAFTAR BARU</span>
+    
             <h2 className="cta-banner-title">
               Siap Jadi Sultan Berikutnya? <span className="text-gold">Unduh APK Sekarang!</span>
             </h2>

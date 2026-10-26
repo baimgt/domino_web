@@ -19,13 +19,6 @@ export default function FeatureHighlights() {
       desc: 'Didukung infrastruktur server cloud berlatensi rendah (<25ms) sehingga pertandingan billiard dan gaple anti-lag.'
     },
     {
-      icon: <Gift size={26} />,
-      color: '#F59E0B',
-      bg: 'rgba(245, 158, 11, 0.12)',
-      title: 'Bonus Chip Harian Melimpah',
-      desc: 'Klaim hadiah login setiap hari, putar roda keberuntungan, dan raih miliaran chip tambahan dari event mingguan.'
-    },
-    {
       icon: <Crown size={26} />,
       color: '#F5C518',
       bg: 'rgba(245, 197, 24, 0.12)',

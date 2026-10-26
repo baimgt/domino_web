@@ -153,17 +153,7 @@ export default function SpecsTable({ onOpenDownload }: SpecsTableProps) {
                     <span>Banyak adware dan spam pop-up mencurigakan</span>
                   </td>
                 </tr>
-                <tr>
-                  <td><strong>Bonus Harian & Event VIP</strong></td>
-                  <td className="td-official">
-                    <CheckCircle2 size={18} className="text-green" />
-                    <span>Klaim bonus setiap hari hingga miliaran koin</span>
-                  </td>
-                  <td className="td-mod">
-                    <XCircle size={18} className="text-red" />
-                    <span>Tidak dapat mengikuti event dan ranking</span>
-                  </td>
-                </tr>
+      
               </tbody>
             </table>
           </div>
